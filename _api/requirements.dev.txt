@@ -1,0 +1,4 @@
+steamship==2.13.19rc0
+bs4
+pypdf
+toml
